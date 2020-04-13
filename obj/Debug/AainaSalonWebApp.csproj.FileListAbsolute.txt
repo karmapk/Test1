@@ -1,0 +1,5 @@
+F:\AainaSalonWebApp\AainaSalonWebApp\bin\AainaSalonWebApp.dll
+F:\AainaSalonWebApp\AainaSalonWebApp\bin\AainaSalonWebApp.pdb
+F:\AainaSalonWebApp\AainaSalonWebApp\obj\Debug\AainaSalonWebApp.csprojResolveAssemblyReference.cache
+F:\AainaSalonWebApp\AainaSalonWebApp\obj\Debug\AainaSalonWebApp.dll
+F:\AainaSalonWebApp\AainaSalonWebApp\obj\Debug\AainaSalonWebApp.pdb
